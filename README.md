@@ -2,6 +2,9 @@
 Aim of the project: Learn sign language in a classic entertaining way
 Idea of the project: An application that combines education and entertainment.  At first, teach the player how each letter is represented in sign language, then he will play the match by pressing the correct key that matches the image.  The final level is a challenge: choosing the correct signs that represent the letters of the names
 
+# DEMO
+https://drive.google.com/file/d/1TbACaLKU7yl2AifXUYijWLkNvPokUOpY/view
+
 # Dependencies
 1. JDK
 2. MySQL
